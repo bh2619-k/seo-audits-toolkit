@@ -5,7 +5,6 @@ __pycache__
 .DS_Store
 *.pid
 
-.env
 node_modules
 shared/logs/redis/*.log
 shared/logs/mysql/*
@@ -17,3 +16,4 @@ dump.rdb
 .eslintcache
 admin/.eslintcache
 .vscode/settings.json
+config.bat
